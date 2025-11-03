@@ -1,0 +1,7 @@
+role US-WEST
+	modelPermission: read
+
+	tablePermission Territories = [Territory] == "US-WEST"
+
+	annotation PBI_Id = 35826376d3494203a80d7fe69a11637d
+
