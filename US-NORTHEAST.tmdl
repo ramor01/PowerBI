@@ -1,0 +1,7 @@
+role US-NORTHEAST
+	modelPermission: read
+
+	tablePermission Territories = [Territory] == "US-NORTHEAST"
+
+	annotation PBI_Id = e41a4d7252cf496196012c0643ba9e3c
+
